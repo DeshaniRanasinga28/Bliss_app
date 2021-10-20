@@ -1,0 +1,4 @@
+#Wed Oct 20 12:14:25 IST 2021
+base.0=C\:\\Users\\User\\Downloads\\bliss-master\\bliss-master\\bliss\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
