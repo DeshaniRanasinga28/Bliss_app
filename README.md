@@ -12,11 +12,23 @@ The Biss is an e-commerce mobile application and the following features are in t
 
 [![enter image description here][3]][3]
 
-  [1]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634715758/food_sugar_amount/WhatsApp_Image_2021-10-20_at_1.08.42_PM_x3p99b.jpg
+[![enter image description here][4]][4]
 
-  [2]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1614009602/Screenshot_2021-02-22_at_21.26.47_plnmuj.png
+[![enter image description here][5]][5]
+
+[![enter image description here][6]][6]
+
+  [1]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634716327/food_sugar_amount/66_ci5fuj.png
+
+  [2]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634716298/food_sugar_amount/Capture_nht1ij.png
   
-  [3]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1614009753/Screenshot_2021-02-22_at_21.29.34_hzoh3n.png
+  [3]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634716336/food_sugar_amount/22_nrjp6b.png
+  
+  [4]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634716331/food_sugar_amount/23_a5ecbl.png
+   
+  [5]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634716342/food_sugar_amount/Capture44_dxks4b.png
+    
+  [6]: https://res.cloudinary.com/thinksmart-solution/image/upload/v1634716347/food_sugar_amount/Capture445_ep5xqi.png
 
 # Deploy and Run The Biss app
 
